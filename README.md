@@ -20,7 +20,8 @@ Warehouse Environment
 
 Total Minimum Cost
 
-       1) Shortest path distance (Cost) is calculated using A* algorithm for every robot-task pair (6 x 6 cost matrix)
+       1) Shortest path distance (Cost) is calculated using A* algorithm 
+          for every robot-task pair (6 x 6 cost matrix)
        2) Min obj = sum_i,sum_j(r_i*cost(task_j))
        3) Constraints: Task_j  can be allocated to only unique robot
 
@@ -31,7 +32,8 @@ https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/e
 
 Priority Task Allocation
 
-       1) Here Algorithm will not optimize the overall cost / distance of all 6 robots together like in above scenario.
+       1) Here Algorithm will not optimize the overall cost / distance of all
+          6 robots together like in above scenario.
        2) Nearest robot will be assigned to each task in decreasing order of priority P1>P2>P3>P4>P5>P6
        3) Priority varies from Brightest Yellow to Darkest Yellow
        
