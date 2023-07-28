@@ -17,6 +17,7 @@ Warehouse Environment
 
 ![WhatsApp Image 2023-07-28 at 8 16 36 PM (1)](https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/da4ce2f9-580a-40d8-9b29-10ea9e9468ec)
 
+
 Total Minimum Cost
 
        1) Shortest path distance (Cost) is calculated using A* algorithm for every robot-task pair (6 x 6 cost matrix)
@@ -25,7 +26,8 @@ Total Minimum Cost
 
 https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/e24ed4af-03ba-4c81-9e33-f0022c5ab2c3
 
-![WhatsApp Image 2023-07-28 at 8 59 00 PM](https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/a61bfc4c-37bb-42ac-800f-33614017609b)
+![WhatsApp Image 2023-07-28 at 8 59 00 PM (1)](https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/c401d064-35c1-45e5-9d43-7076830fcfc2)
+
 
 Priority Task Allocation
 
@@ -35,7 +37,8 @@ Priority Task Allocation
        
 https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/ed258b7f-5587-4a30-9b6f-ef11a9288a7b
 
-![WhatsApp Image 2023-07-28 at 8 28 55 PM](https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/8b21cc00-db2b-4748-a803-5c67c8160583)
+![WhatsApp Image 2023-07-28 at 8 28 55 PM](https://github.com/PranjayGoyal/Warehouse-Robots-Path-Planning/assets/89729339/f2e71396-2167-4714-aec5-80aa0066fc23)
+
 
 Load Capacity
 
